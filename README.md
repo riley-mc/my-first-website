@@ -16,7 +16,6 @@ _This is where the detailed descriptiption of the application or program will go
 * _Type in my url_
 * _Enjoy_
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
 
 ## Known Bugs
 
@@ -28,7 +27,7 @@ _Feel free to DM me on Discord (Riley McAdoo)_
 
 ## Technologies Used
 
-_VS Code, GitBash, Google Chrome_
+_VS Code, GitBash, Google Chrome, Brain_
 
 ### License
 
